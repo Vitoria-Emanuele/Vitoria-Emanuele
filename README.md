@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Vitória Emanuele 👋
-
+##
+Acadêmica de graduação em Ciência de Dados e Inteligência Artificial.
+##
 <div>
   <a href="https://github.com/Vitoria-Emanuele">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Emanuele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
