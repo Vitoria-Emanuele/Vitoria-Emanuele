@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Vitória Emanuele 👋
 ##
-Acadêmica de graduação em Ciência de Dados e Inteligência Artificial.
+Acadêmica de Ciência de Dados e Inteligência Artificial.
 ##
 <div>
   <a href="https://github.com/Vitoria-Emanuele">
