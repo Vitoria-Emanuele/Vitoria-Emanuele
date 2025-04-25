@@ -1,6 +1,6 @@
 #### 👩🏻‍💻 Biografia:
 
-Olá, Meu nome é Vitória Emanuele! Sou Técnica em Informática pelo Instituto Federal do Piaui-IFPI e Acadêmica de Ciência de Dados e Inteligência Artificial na Universidade Federal da Paraiba-UFPB. Seja bem-vindo ao meu github!!🤗 
+Técnica em Informática pelo Instituto Federal do Piaui-IFPI e Acadêmica de Ciência de Dados e Inteligência Artificial na Universidade Federal da Paraiba-UFPB.
 
 ##
 
