@@ -18,23 +18,12 @@ Técnica em Informática pelo Instituto Federal do Piaui-IFPI e Acadêmica de Ci
 </div>
 
 <div style="display: inline_block"><br> 
-  <img align="center" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
   <img align="center" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
     <img align="center" height="30" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg">
 
   
-</div>
-
-##
-
-#### 📊 Estatistica: 
-
-<div>
-  <a href="https://github.com/Vitoria-Emanuele">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitoria-Emanuele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoria-Emanuele&layout=compact&langs_count=16&theme=dark"/>
 </div>
     
 ##
